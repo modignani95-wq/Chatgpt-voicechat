@@ -1,0 +1,6 @@
+{
+  "name": "ChatGPT Voice Study - Mobile Voice Flow",
+  "description": "Interactive mobile ChatGPT prototype featuring intelligent voice suggestions, voice study bottom sheet, live audio waveform streaming, and review & send.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
